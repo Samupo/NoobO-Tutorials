@@ -1,0 +1,6 @@
+D:\Tutoriales\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe.config
+D:\Tutoriales\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
+D:\Tutoriales\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+D:\Tutoriales\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csprojResolveAssemblyReference.cache
+D:\Tutoriales\Tutorial1\Tutorial1\obj\Debug\Tutorial1.exe
+D:\Tutoriales\Tutorial1\Tutorial1\obj\Debug\Tutorial1.pdb
